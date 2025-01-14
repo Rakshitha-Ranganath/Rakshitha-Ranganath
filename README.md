@@ -1,4 +1,4 @@
-![logo](https://github.com/rakshitha0522/rakshitha_ranganath/blob/main/Blue%20Modern%20Data%20Analysis%20Presentation.png)
+![logo](https://github.com/Rakshitha-Ranganath/Rakshitha-Ranganath/blob/main/Blue%20Modern%20Data%20Analysis%20Presentation%20(1).png)
 <h1 align="center">Hi 👋, I'm Rakshitha Ranganath</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
